@@ -103,26 +103,6 @@ Ejecutar todos los tests y generar reporte de cobertura:
 
 ### Autores - Grupo 5
 
+BATTELLA VERCESI,Luisina F, FERNANDEZ,Matias L, GONZALEZ PUJADO,M.Candela, PONCE, Alma Yasmin, VILLARREAL,Maria Jose
 
-
-BATTELLA VERCESI,Luisina F (persistencia)
-
-FERNANDEZ,Matias L (Logica core)
-
-GONZALEZ PUJADO,M.Candela (testing)
-
-PONCE, Alma Yasmin (controller)
-
-VILLARREAL,Maria Jose (QA)
-
-
-
-
-
-
-
-
-
-
-
-
+Catedra desarrollo de Software UTN- FRM
